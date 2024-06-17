@@ -1,0 +1,27 @@
+:root {
+  --border-radius: 12px;
+  --logo-color: #5d5d6d;
+  --bg-secondary: #f3f5f6;
+  --text-dark: #737380;
+  --delete-color: #DE3838;
+  --orangeLow-color: #ffa585;
+  --text-dark-2:#41414d;
+  --shapes-dark: #09090a;
+  --shapes: #Dce2e6;
+  --bg-primary: #f0f0f5;
+  --secundary-text: #617480;
+  --border-color: #A8A8b3;
+  --success-color: #51b853;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
